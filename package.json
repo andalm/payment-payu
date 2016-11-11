@@ -1,0 +1,28 @@
+{
+  "name": "payment-payu",
+  "version": "1.0.0",
+  "description": "Strategy for PayU provider ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andalm/payment-payu.git"
+  },
+  "keywords": [
+    "payment",
+    "payments",
+    "payu",
+    "provider",
+    "providers",
+    "strategy",
+    "strategies"
+  ],
+  "author": "Andrés Aldana <andres.aldana.martinez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andalm/payment-payu/issues"
+  },
+  "homepage": "https://github.com/andalm/payment-payu#readme"
+}
