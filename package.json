@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/andalm/payment-payu/issues"
   },
-  "homepage": "https://github.com/andalm/payment-payu#readme"
+  "homepage": "https://github.com/andalm/payment-payu#readme",
+  "dependencies": {
+    "payment-strategy": "^1.0.3"
+  }
 }
